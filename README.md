@@ -2,9 +2,9 @@
 
 ## Tips, Tricks, and advice for travelling around the world
 
-Do you love to travel? :train: 🚌 :airplane: This is a repository for all things travel, including best locations, tips, tricks, travel advice and more.
+Do you love to travel? :train: 🚌 :airplane: This is a repository for all things travel, including best locations, tips, tricks, travel advice, and more.
 
-It includes tips, tricks, travel advice, and more. The repository is in English, as it's designed to cater to an English speaking audience. You'll find the tips and tricks files under the [country](https://github.com/mishmanners/Travel/tree/main/Countries%20) folder. Please find your country, or add a new country markdown tile. There's also a folder for [general travel advice](https://github.com/mishmanners/Travel/tree/main/General).
+The repository is in English, as it's designed to cater to an English speaking audience. You'll find the tips and tricks files under the [country](https://github.com/mishmanners/Travel/tree/main/Countries%20) folder. Please find your country, or add a new country markdown tile. There's also a folder for [general travel advice](https://github.com/mishmanners/Travel/tree/main/General).
 
 If you'd like to contribute, please do!
 
