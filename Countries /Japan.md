@@ -6,7 +6,7 @@ Definitely try any and all food you can. Even the chains like coco ichibanya. Th
 
 ### Tours
 
-[Qantas Tours](https://tours.qantas.com/mydeals) always have a tonne of deals. We ended up doing the Ultimate Japan tour, which is 20 days and took us all over Japan:
+[Qantas Tours](https://tours.qantas.com/) always have a tonne of deals. We ended up doing the Ultimate Japan tour, which is 20 days and took us all over Japan:
 ![Overview](https://github.com/mishmanners/Travel/assets/36594527/e6b6782b-02ca-4c0e-93d5-f68de6b11dc0)
 
 ### Hotel
