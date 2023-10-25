@@ -4,7 +4,7 @@
 
 Do you love to travel? :train: 🚌 :airplane: This is a repository for all things travel, including best locations, tips, tricks, travel advice and more.
 
-It includes tips, tricks, travel advice, and more. The repository is in English, as it's designed to cater to an English speaking audience. You'll find the [tips and tricks file](https://github.com/mishmanners/Japan/blob/main/JapanTravelTips.md) under the main code tab.
+It includes tips, tricks, travel advice, and more. The repository is in English, as it's designed to cater to an English speaking audience. You'll find the tips and tricks files under the [country](https://github.com/mishmanners/Japan/tree/main/Countries%20) folder. Please find your country, or add a new country markdown tile. There's also a folder for general travel advice.
 
 If you'd like to contribute, please do!
 
