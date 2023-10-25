@@ -6,7 +6,7 @@ Do you love to travel? :train: 🚌 :airplane: This is a repository for all thin
 
 ![iStock_000066501889_Large](https://github.com/mishmanners/Travel/assets/36594527/bea4c7a5-87fc-453a-819e-ca43e2de0822)
 
-The repository is in English, as it's designed to cater to an English speaking audience. You'll find the tips and tricks files under the [country](https://github.com/mishmanners/Travel/tree/main/Countries%20) folder. Please find your country, or add a new country markdown tile. There's also a folder for [general travel advice](https://github.com/mishmanners/Travel/tree/main/General).
+The repository is in English, as it's designed to cater to an English speaking audience. You'll find the tips and tricks files under the [country](https://github.com/mishmanners/Travel/tree/main/Countries%20) folder. Please find your country, or add a new country markdown tile. There's also a folder for [general travel advice](https://github.com/mishmanners/Travel/tree/main/General). Things can be added in any order. Feel free to add links and images. If you add images, please either credit the owner and/or add links back to the source.
 
 If you'd like to contribute, please do!
 
