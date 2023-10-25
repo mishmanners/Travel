@@ -1,6 +1,8 @@
-# Japan
+# Global travel - around the world
 
-This is a repository for all things Japan!
+## Tips, Tricks, and advice for travelling around the world
+
+Do you love to travel? :train: 🚌 :airplane: This is a repository for all things travel, including best locations, tips, tricks, travel advice and more.
 
 It includes tips, tricks, travel advice, and more. The repository is in English, as it's designed to cater to an English speaking audience. You'll find the [tips and tricks file](https://github.com/mishmanners/Japan/blob/main/JapanTravelTips.md) under the main code tab.
 
