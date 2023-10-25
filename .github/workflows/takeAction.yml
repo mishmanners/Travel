@@ -1,0 +1,18 @@
+# .github/workflows/takeAction.yml 
+name: Assign issue to contributor
+on: 
+  issue_comment:
+
+jobs:
+  assign:
+    name: Take an issue
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    steps:
+    - name: contributor-takes-action
+      uses: bdougie/take-action@main
+      with:
+        message: Alright you want to take this issue? It is now assigned to you 🙏 Let us know if you have any questions.
+        trigger: .take
+        token: ${{ secrets.GITHUB_TOKEN }}
