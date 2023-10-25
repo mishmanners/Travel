@@ -1,4 +1,4 @@
-# Countries for travelling
+# Travelling to different countries
 
 Here, you'll find tips, tricks, and ideas for travelling in certain countries.
 
