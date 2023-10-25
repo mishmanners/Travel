@@ -2,6 +2,10 @@
 
 This is a repository for all things Japan!
 
+It includes tips, tricks, travel advice, and more. The repository is in English, as it's designed to cater to an English speaking audience. You'll find the [tips and tricks file](https://github.com/mishmanners/Japan/blob/main/JapanTravelTips.md) under the main code tab.
+
+If you'd like to contribute, please do!
+
 ### Contribution Guidelines
 
 This project is a work in progress and I welcome any help 🙏
