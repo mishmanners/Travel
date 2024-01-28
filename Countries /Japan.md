@@ -33,7 +33,7 @@ You may love [Daikoku Parking area](https://kokoro-jp.com/culture/1153/) in Yoko
 
 ### Final Fantasy Cafe
 
-The [Final Fantasy Eorzea cafe](https://en.pasela.co.jp/paselabo_shop/ff_eorzea/) is a must see if you're an FF fan.
+The [Final Fantasy Eorzea cafe](https://en.pasela.co.jp/paselabo_shop/ff_eorzea/) is a must see if you're an FF fan. It's located in Osaka.
 
 ### Kirby cafe
 
