@@ -38,3 +38,7 @@ The [Final Fantasy Eorzea cafe](https://en.pasela.co.jp/paselabo_shop/ff_eorzea/
 ### Kirby cafe
 
 If you love gaming, the [Kirby cafe](https://kirbycafe.jp/) is for you.
+
+### Pokemon Mega Center
+
+Located in Tokyo, the [Pokemon Mega Center](https://www.pokemon.co.jp/shop/en/pokecen/megatokyo/)https://www.pokemon.co.jp/shop/en/pokecen/megatokyo/ is a must for Pokemon fans.
