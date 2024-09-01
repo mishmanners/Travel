@@ -1,5 +1,7 @@
 # Best items you need when you travel
 
+Here are a bunch of travel items you might like to consider when you head out on your journey. They are listed in alphabetical order.
+
 ## July
 
 The best luggage going around is [July](https://july.com/au/). They have suitcases, roller cases, luggage covers, passport wallets, and more. Super high quality, great colours, good warranty, and great designs.
