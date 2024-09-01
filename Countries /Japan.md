@@ -41,4 +41,4 @@ If you love gaming, the [Kirby cafe](https://kirbycafe.jp/) is for you. Located 
 
 ### Pokemon Mega Center
 
-Located in Tokyo, the [Pokemon Mega Center](https://www.pokemon.co.jp/shop/en/pokecen/megatokyo/)https://www.pokemon.co.jp/shop/en/pokecen/megatokyo/ is a must for Pokemon fans.
+Located in Tokyo, the [Pokemon Mega Center](https://www.pokemon.co.jp/shop/en/pokecen/megatokyo/](https://www.pokemon.co.jp/shop/en/pokecen/megatokyo/ is a must for Pokemon fans.
